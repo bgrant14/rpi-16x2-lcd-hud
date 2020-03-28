@@ -1,5 +1,5 @@
 # Raspberry Pi 16x2 LCD HUD
-An HUD to be displayed on a 16x2 screen connected to a Raspberry Pi. Line 1: weather at my location. Line 2: network usage of my Plex server.
+A heads-up display to be displayed on a 16x2 screen connected to a Raspberry Pi. Line 1: weather at my location. Line 2: network usage of my Plex server.
 
 ## Dependencies
 The deprecated [Adafruit Python CharLCD](https://github.com/adafruit/Adafruit_Python_CharLCD.git) (I should probably update that), ifstat on the server being monitored, python, bash, and other basic Unix utilities.
